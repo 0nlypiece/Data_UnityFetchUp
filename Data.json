@@ -13,6 +13,278 @@
       "wrongAnswer1": "20",
       "wrongAnswer2": "15",
       "wrongAnswer3": "30"
+    },
+
+    {
+      "question": "Dünyanın en büyük okyanusu hangisidir?",
+      "correctAnswer": "Pasifik Okyanusu",
+      "wrongAnswer1": "Atlas Okyanusu",
+      "wrongAnswer2": "Hint Okyanusu",
+      "wrongAnswer3": "Arktik Okyanus"
+    },
+    {
+      "question": "Güneş sistemi kaç gezegenden oluşur?",
+      "correctAnswer": "8",
+      "wrongAnswer1": "9",
+      "wrongAnswer2": "7",
+      "wrongAnswer3": "10"
+    },
+    {
+      "question": "En uzun nehir hangisidir?",
+      "correctAnswer": "Nil Nehri",
+      "wrongAnswer1": "Amazon",
+      "wrongAnswer2": "Fırat",
+      "wrongAnswer3": "Dicle"
+    },
+    {
+      "question": "Dünyanın en büyük ülkesi?",
+      "correctAnswer": "Rusya",
+      "wrongAnswer1": "Çin",
+      "wrongAnswer2": "Kanada",
+      "wrongAnswer3": "ABD"
+    },
+    {
+      "question": "Atatürk'ün doğum yılı?",
+      "correctAnswer": "1881",
+      "wrongAnswer1": "1880",
+      "wrongAnswer2": "1890",
+      "wrongAnswer3": "1875"
+    },
+    {
+      "question": "İnsan vücudunda kaç kemik vardır?",
+      "correctAnswer": "206",
+      "wrongAnswer1": "201",
+      "wrongAnswer2": "210",
+      "wrongAnswer3": "198"
+    },
+    {
+      "question": "En hızlı kara hayvanı?",
+      "correctAnswer": "Çita",
+      "wrongAnswer1": "Aslan",
+      "wrongAnswer2": "Kaplan",
+      "wrongAnswer3": "Kurt"
+    },
+    {
+      "question": "Su kaç derecede kaynar?",
+      "correctAnswer": "100",
+      "wrongAnswer1": "90",
+      "wrongAnswer2": "80",
+      "wrongAnswer3": "110"
+    },
+
+    {
+      "question": "Ay Dünya’ya ortalama kaç km uzaklıktadır?",
+      "correctAnswer": "384.000 km",
+      "wrongAnswer1": "300.000 km",
+      "wrongAnswer2": "500.000 km",
+      "wrongAnswer3": "250.000 km"
+    },
+    {
+      "question": "En büyük gezegen?",
+      "correctAnswer": "Jüpiter",
+      "wrongAnswer1": "Satürn",
+      "wrongAnswer2": "Neptün",
+      "wrongAnswer3": "Mars"
+    },
+    {
+      "question": "Hangi elementin sembolü O'dur?",
+      "correctAnswer": "Oksijen",
+      "wrongAnswer1": "Altın",
+      "wrongAnswer2": "Osmiyum",
+      "wrongAnswer3": "Hidrojen"
+    },
+    {
+      "question": "İlk insanlı uzay uçuşu hangi ülkeye aittir?",
+      "correctAnswer": "SSCB",
+      "wrongAnswer1": "ABD",
+      "wrongAnswer2": "Çin",
+      "wrongAnswer3": "Almanya"
+    },
+    {
+      "question": "Türkiye kaç coğrafi bölgeye ayrılır?",
+      "correctAnswer": "7",
+      "wrongAnswer1": "5",
+      "wrongAnswer2": "6",
+      "wrongAnswer3": "8"
+    },
+    {
+      "question": "Bir yılda kaç gün vardır?",
+      "correctAnswer": "365",
+      "wrongAnswer1": "360",
+      "wrongAnswer2": "366",
+      "wrongAnswer3": "364"
+    },
+    {
+      "question": "Dünyanın en yüksek dağı?",
+      "correctAnswer": "Everest",
+      "wrongAnswer1": "K2",
+      "wrongAnswer2": "Ağrı Dağı",
+      "wrongAnswer3": "Alpler"
+    },
+    {
+      "question": "Hangi hayvan memelidir?",
+      "correctAnswer": "Yunus",
+      "wrongAnswer1": "Köpekbalığı",
+      "wrongAnswer2": "Balina köpekbalığı",
+      "wrongAnswer3": "Ahtapot"
+    },
+    {
+      "question": "Türkiye hangi kıtadadır?",
+      "correctAnswer": "Asya ve Avrupa",
+      "wrongAnswer1": "Afrika",
+      "wrongAnswer2": "Amerika",
+      "wrongAnswer3": "Avustralya"
+    },
+    {
+      "question": "En küçük asal sayı?",
+      "correctAnswer": "2",
+      "wrongAnswer1": "1",
+      "wrongAnswer2": "3",
+      "wrongAnswer3": "5"
+    },
+
+    {
+      "question": "Kare kaç kenarlıdır?",
+      "correctAnswer": "4",
+      "wrongAnswer1": "3",
+      "wrongAnswer2": "5",
+      "wrongAnswer3": "6"
+    },
+    {
+      "question": "Dünya kaç günde döner?",
+      "correctAnswer": "24 saat",
+      "wrongAnswer1": "12 saat",
+      "wrongAnswer2": "48 saat",
+      "wrongAnswer3": "30 saat"
+    },
+    {
+      "question": "Güneş hangi tür yıldızdır?",
+      "correctAnswer": "Sarı cüce",
+      "wrongAnswer1": "Kırmızı dev",
+      "wrongAnswer2": "Beyaz cüce",
+      "wrongAnswer3": "Nötron yıldızı"
+    },
+    {
+      "question": "En büyük kıta?",
+      "correctAnswer": "Asya",
+      "wrongAnswer1": "Afrika",
+      "wrongAnswer2": "Avrupa",
+      "wrongAnswer3": "Amerika"
+    },
+    {
+      "question": "İlk Türk devleti?",
+      "correctAnswer": "Asya Hun",
+      "wrongAnswer1": "Osmanlı",
+      "wrongAnswer2": "Göktürk",
+      "wrongAnswer3": "Selçuklu"
+    },
+
+    {
+      "question": "Minecraft kaç yılında çıktı?",
+      "correctAnswer": "2011",
+      "wrongAnswer1": "2009",
+      "wrongAnswer2": "2010",
+      "wrongAnswer3": "2012"
+    },
+    {
+      "question": "Unity hangi şirketindir?",
+      "correctAnswer": "Unity Technologies",
+      "wrongAnswer1": "Epic Games",
+      "wrongAnswer2": "Valve",
+      "wrongAnswer3": "Microsoft"
+    },
+    {
+      "question": "C# hangi şirket tarafından geliştirildi?",
+      "correctAnswer": "Microsoft",
+      "wrongAnswer1": "Google",
+      "wrongAnswer2": "Apple",
+      "wrongAnswer3": "Oracle"
+    },
+    {
+      "question": "HTML açılımı nedir?",
+      "correctAnswer": "HyperText Markup Language",
+      "wrongAnswer1": "HighText Machine Language",
+      "wrongAnswer2": "Hyper Tool Mark Language",
+      "wrongAnswer3": "Home Tool Markup Language"
+    },
+    {
+      "question": "CPU ne demektir?",
+      "correctAnswer": "Central Processing Unit",
+      "wrongAnswer1": "Computer Power Unit",
+      "wrongAnswer2": "Core Processing Utility",
+      "wrongAnswer3": "Central Program Unit"
+    },
+
+    {
+      "question": "En büyük hayvan?",
+      "correctAnswer": "Mavi balina",
+      "wrongAnswer1": "Fil",
+      "wrongAnswer2": "Köpekbalığı",
+      "wrongAnswer3": "Zürafa"
+    },
+    {
+      "question": "Hangi gezegen kırmızıdır?",
+      "correctAnswer": "Mars",
+      "wrongAnswer1": "Venüs",
+      "wrongAnswer2": "Jüpiter",
+      "wrongAnswer3": "Merkür"
+    },
+    {
+      "question": "Kağıt hangi maddeden yapılır?",
+      "correctAnswer": "Ağaç",
+      "wrongAnswer1": "Plastik",
+      "wrongAnswer2": "Cam",
+      "wrongAnswer3": "Metal"
+    },
+    {
+      "question": "Türkiye'nin en kalabalık şehri?",
+      "correctAnswer": "İstanbul",
+      "wrongAnswer1": "Ankara",
+      "wrongAnswer2": "İzmir",
+      "wrongAnswer3": "Bursa"
+    },
+    {
+      "question": "En büyük çöl?",
+      "correctAnswer": "Sahra",
+      "wrongAnswer1": "Gobi",
+      "wrongAnswer2": "Kalahari",
+      "wrongAnswer3": "Arabistan"
+    },
+
+    {
+      "question": "Bir gün kaç saattir?",
+      "correctAnswer": "24",
+      "wrongAnswer1": "12",
+      "wrongAnswer2": "48",
+      "wrongAnswer3": "36"
+    },
+    {
+      "question": "Dünya'nın uydusu?",
+      "correctAnswer": "Ay",
+      "wrongAnswer1": "Mars",
+      "wrongAnswer2": "Venüs",
+      "wrongAnswer3": "Güneş"
+    },
+    {
+      "question": "En hızlı ışık mı ses mi?",
+      "correctAnswer": "Işık",
+      "wrongAnswer1": "Ses",
+      "wrongAnswer2": "Aynı",
+      "wrongAnswer3": "Değişir"
+    },
+    {
+      "question": "Python nedir?",
+      "correctAnswer": "Programlama dili",
+      "wrongAnswer1": "Yılan",
+      "wrongAnswer2": "Oyun",
+      "wrongAnswer3": "İşletim sistemi"
+    },
+    {
+      "question": "GTA hangi tür oyun?",
+      "correctAnswer": "Açık dünya",
+      "wrongAnswer1": "Spor",
+      "wrongAnswer2": "Yarış",
+      "wrongAnswer3": "Bulmaca"
     }
   ]
 }
