@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "question": "Türkiye'nin başkenti nedir?",
+      "correctAnswer": "Ankara",
+      "wrongAnswer1": "İstanbul",
+      "wrongAnswer2": "İzmir",
+      "wrongAnswer3": "Bursa"
+    },
+    {
+      "question": "5 x 5 kaçtır?",
+      "correctAnswer": "25",
+      "wrongAnswer1": "20",
+      "wrongAnswer2": "15",
+      "wrongAnswer3": "30"
+    }
+  ]
+}
